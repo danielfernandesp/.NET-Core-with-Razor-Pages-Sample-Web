@@ -12,9 +12,13 @@ build_property.RootNamespace = AbbyWeb
 build_property.ProjectDir = C:\Users\Daniel\Documents\Cursos\Introduction - .net + APS.NET Core Razor Pages (.NET 6)\Abby\AbbyWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\Daniel\Documents\Cursos\Introduction - .net + APS.NET Core Razor Pages (.NET 6)\Abby\AbbyWeb
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Daniel/Documents/Cursos/Introduction - .net + APS.NET Core Razor Pages (.NET 6)/Abby/AbbyWeb/Pages/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Daniel/Documents/Cursos/Introduction - .net + APS.NET Core Razor Pages (.NET 6)/Abby/AbbyWeb/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
