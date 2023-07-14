@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets\\AbbyWeb.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Daniel\\Documents\\Cursos\\Introduction - .net + APS.NET Core Razor Pages (.NET 6)\\Abby\\AbbyWeb\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
       "Id": "C:\\Users\\Daniel\\Documents\\Cursos\\Introduction - .net + APS.NET Core Razor Pages (.NET 6)\\Abby\\AbbyWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4A0Bmeb87cvzs8Bm++rzpGyeicDS9+8uteR201dg7aQ=",
+  "Hash": "ggRDYE8ZGo4mVRKi2x20Fb82/I3SOqBdUhgNAm37/Tw=",
   "Source": "AbbyWeb",
   "BasePath": "_content/AbbyWeb",
   "Mode": "Default",
@@ -49,23 +49,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Daniel\\Documents\\Cursos\\Introduction - .net + APS.NET Core Razor Pages (.NET 6)\\Abby\\AbbyWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AbbyWeb.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\Daniel\\Documents\\Cursos\\Introduction - .net + APS.NET Core Razor Pages (.NET 6)\\Abby\\AbbyWeb\\wwwroot\\css\\site.css",
-      "SourceId": "AbbyWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Daniel\\Documents\\Cursos\\Introduction - .net + APS.NET Core Razor Pages (.NET 6)\\Abby\\AbbyWeb\\wwwroot\\",
-      "BasePath": "_content/AbbyWeb",
-      "RelativePath": "css/site.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
       "Identity": "C:\\Users\\Daniel\\Documents\\Cursos\\Introduction - .net + APS.NET Core Razor Pages (.NET 6)\\Abby\\AbbyWeb\\wwwroot\\favicon.ico",
