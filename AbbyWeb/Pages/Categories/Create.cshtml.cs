@@ -1,12 +1,30 @@
+using AbbyWeb.Data;
+using AbbyWeb.Model;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace AbbyWeb.Pages.Categories
+namespace AbbyWeb.Pages.Categories;
+
+[BindProperties]
+public class CreateModel : PageModel
 {
-    public class CreateModel : PageModel
+    private readonly ApplicationDBContext _db;
+    
+    public Category Category { get; set; }
+
+    public CreateModel(ApplicationDBContext db)
     {
-        public void OnGet()
-        {
-        }
+        _db = db;
+    }
+
+    public void OnGet()
+    {
+    }
+
+    public async Task<IActionResult> OnPost()
+    {
+        await _db.Category.AddAsync(Category);
+        await _db.SaveChangesAsync();
+        return RedirectToPage("Index");
     }
 }
